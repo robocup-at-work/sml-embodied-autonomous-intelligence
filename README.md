@@ -90,7 +90,7 @@ If you reference this workshop proposal in academic work, presentations, or inte
   title        = {Embodied Autonomous Intelligence for On-Demand Manufacturing: A RoboCup Industrial Workshop Proposal},
   author       = {Masannek, Marco and Steup, Christoph and Norouzi, Asad},
   year         = {2026},
-  howpublished = {\url{https://github.com/<organization>/<repository>}},
+  howpublished = {\url{https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence}},
   note         = {Workshop proposal for the RoboCup Smart Manufacturing League (SML)}
 }
 ```
