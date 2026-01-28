@@ -1,3 +1,5 @@
+# NOT OFFICIALLY FINALIZED YET
+
 # Embodied Autonomous Intelligence Workshop (EAI-WS)
 *A Workshop Proposal for the RoboCup Smart Manufacturing League (SML)*
 
