@@ -1,6 +1,31 @@
 # Embodied Autonomous Intelligence Workshop (EAI-WS)
 *A Workshop Proposal for the RoboCup Smart Manufacturing League (SML)*
 
+## Letter to the Teams
+
+Dear RoboCup Industrial Teams,
+
+TL;DR: We will proceed with two complementary SML workshop concepts that share the same arena and materials, allowing teams to test both approaches and help converge towards a unified league concept for 2026 and beyond.
+
+Many of you have been eager to hear how the Smart Manufacturing League (SML) will take shape for RoboCup 2026. Recent discussions within the RoboCup @Work and RCLL communities have led to a strong shared understanding of the overall direction towards Industry 5.0 and beyond.
+While we share substantial common ground in vision, tasks, and robot designs, our ideas on how these should be implemented into a concrete competition format have not fully converged so far.
+
+To move forward constructively and gather practical experience as well as your feedback, we have decided to proceed with two complementary workshop concepts for the RoboCup German Open 2026. Both will use the same arena layout and materials specification, ensuring comparability and allowing teams to participate in both formats using their existing systems.
+
+The concept papers will be hosted publicly, and teams are explicitly encouraged to raise questions and suggest improvements transparently via GitHub issues. Our shared goal is to converge towards a robust and community-driven SML concept for RoboCup 2026 in Korea, 2027, and beyond.
+
+We strongly encourage teams to participate in all workshop formats. Most existing systems should already be able to perform a substantial subset of the proposed tasks.
+
+We are looking forward to shaping a strong and unified RoboCup Industrial community together.
+Links
+- Official RoboCup concept page: https://nextcloud.robocup.de/s/XbSi8GTQ9np3nXG
+- @Work GitHub repository: https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence
+- RCLL GitHub repository: [LINK TO BE ADDED]
+
+Best regards,
+Marco, Christoph, Asad, Matteo, Tarik, Wataru, Maike
+
+
 ## Overview
 
 This repository contains the official workshop proposal document for the
@@ -88,10 +113,10 @@ If you reference this workshop proposal in academic work, presentations, or inte
 ```bibtex
 @misc{EAIWS2026,
   title        = {Embodied Autonomous Intelligence for On-Demand Manufacturing: A RoboCup Industrial Workshop Proposal},
-  author       = {Masannek, Marco and Steup, Christoph and Norouzi, Asad},
+  author       = {Masannek, Marco and Steup, Christoph and Norouzi, Asad and Uemura, Wataru},
   year         = {2026},
   howpublished = {\url{https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence}},
-  note         = {Workshop proposal for the RoboCup Smart Manufacturing League (SML)}
+  note         = {EAI-Workshop proposal for the RoboCup Smart Manufacturing League (SML)}
 }
 ```
 
