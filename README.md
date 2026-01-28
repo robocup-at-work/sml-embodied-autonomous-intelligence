@@ -5,7 +5,7 @@
 
 Dear RoboCup Industrial Teams,
 
-TL;DR: We will proceed with two complementary SML workshop concepts that share the same arena and materials, allowing teams to test both approaches and help converge towards a unified league concept for 2026 and beyond.
+**TL;DR**: *We will proceed with two complementary SML workshop concepts that share the same arena and materials, allowing teams to test both approaches and help converge towards a unified league concept for 2026 and beyond.*
 
 Many of you have been eager to hear how the Smart Manufacturing League (SML) will take shape for RoboCup 2026. Recent discussions within the RoboCup @Work and RCLL communities have led to a strong shared understanding of the overall direction towards Industry 5.0 and beyond.
 While we share substantial common ground in vision, tasks, and robot designs, our ideas on how these should be implemented into a concrete competition format have not fully converged so far.
@@ -18,12 +18,13 @@ We strongly encourage teams to participate in all workshop formats. Most existin
 
 We are looking forward to shaping a strong and unified RoboCup Industrial community together.
 Links
-- Official RoboCup concept page: https://nextcloud.robocup.de/s/XbSi8GTQ9np3nXG
-- @Work GitHub repository: https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence
+- [Official RoboCup concept page](https://nextcloud.robocup.de/s/XbSi8GTQ9np3nXG)
+- [@Work GitHub repository](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence)
 - RCLL GitHub repository: [LINK TO BE ADDED]
 
 Best regards,
-Marco, Christoph, Asad, Matteo, Tarik, Wataru, Maike
+
+*Marco, Christoph, Asad, Matteo, Tarik, Wataru, Maike*
 
 
 ## Overview
