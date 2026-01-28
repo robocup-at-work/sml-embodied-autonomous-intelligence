@@ -17,7 +17,8 @@ The concept papers will be hosted publicly, and teams are explicitly encouraged 
 We strongly encourage teams to participate in all workshop formats. Most existing systems should already be able to perform a substantial subset of the proposed tasks.
 
 We are looking forward to shaping a strong and unified RoboCup Industrial community together.
-Links
+
+**Links:**
 - [Official RoboCup concept page](https://nextcloud.robocup.de/s/XbSi8GTQ9np3nXG)
 - [@Work GitHub repository](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence)
 - RCLL GitHub repository: [LINK TO BE ADDED]
