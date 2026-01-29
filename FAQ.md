@@ -8,7 +8,7 @@ It merges former @Work and RCLL concepts into a future-proof concept of an Indus
 
 ### Why the new format ?
 From 2026 onwards, both former league formats will cease to exist. To continue with RoboCup Industrial as a unified community,
-a practical competition concept has to be established. One that protects legacy while dropping balast.
+a practical workshop concept has to be established. One that protects legacy while dropping balast.
 
 ### Which elements are retained ?
 While we abandon most former competition structures, we retain essential and well-explored robotic skills, such as navigation, manipulation, and planning.
@@ -24,7 +24,7 @@ An open discussion and learning environment is fundamental for the success of th
 
 # Participation
 
-### Who should participate ?
+### Why should I participate ?
 For the 2026 transition year, we explicitly encourage everyone interested in contributing towards a complete SML rulebook for the upcoming seasons,
 by actively participating in both vision and practical workshops on-site.
 
@@ -66,11 +66,34 @@ No. Robots are allowed to carry euroboxes, but don't have to.
 ### Where do I get the materials ?
 The technical regulations define commonly available storage shelfs and 3D-printed polymer bricks as raw materials, ensuring practical supply of core league elements for individuals and international events.
 
-## How can I win the workshop ?
+
+# Scoring
+
+### How do i score points?
+Robots may collect points for autonomous tasks, such as navigation, deliveries, assemblies, planning, or completed product orders.
+
+### Is HRI rewarded ?
+Not directly. Teams may utilize HRI to close skill gaps, but will gain no points for such actions. 
+Overall order completitions however remain unaffected, no matter the fleet composition.
+
+### Are Team Partnerships rewarded ?
+Teams may collaborate with others performing other complementary tracks or tasks. 
+Both teams share the points of their partners.
+
+### How is scoring evaluated ?
+Scoring evaluation may be split into equal general benchmarking in a simulator environment,
+while real planning metrics such as ETAs, success rates, and re-planning capabilities are key.
+
+### How can I win the workshop ?
 Team performances are benchmarked across three complementary tracks. 
 In addition, the overall order completion rate is included score evaluations, reflecting both specialization and general system autonomy. 
 We will award best-in-track certificates, as well as an overall workshop winner for the EAI-WS in 2026.
 
 
+# EAI-WS
+
+### Isn't this overcooked ?
+We acknowledge similarities in how decision-based planning and fleet coordination is implemented in an exciting benchmarking format.
+In fact, robots could be seen as cooks, preparing meals (or toys) for customers.
 
 
