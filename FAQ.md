@@ -1,6 +1,8 @@
 # FAQ
 
-## What is the SML ?
+# General
+
+### What is the SML ?
 The Smart Manufacturing League (SML) is the new competition format for RoboCup Industrial from 2026 and onwards. 
 It merges former @Work and RCLL concepts into a future-proof concept of an Industry 5.0 factory.
 
@@ -20,9 +22,9 @@ RoboCup Industrial will remain an encouraging and engaging playground for roboti
 targeting real-world problems from research and industry.
 An open discussion and learning environment is fundamental for the success of the future SML.
 
-## Participation
+# Participation
 
-## Who should participate ?
+### Who should participate ?
 For the 2026 transition year, we explicitly encourage everyone interested in contributing towards a complete SML rulebook for the upcoming seasons,
 by actively participating in both vision and practical workshops on-site.
 
