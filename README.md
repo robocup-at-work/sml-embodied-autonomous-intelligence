@@ -1,5 +1,3 @@
-# NOT OFFICIALLY FINALIZED YET
-
 # Embodied Autonomous Intelligence Workshop (EAI-WS)
 *A Workshop Proposal for the RoboCup Smart Manufacturing League (SML)*
 
@@ -7,27 +5,31 @@
 
 Dear RoboCup Industrial Teams,
 
-**TL;DR**: *We will proceed with two complementary SML workshop concepts that share the same arena and materials, allowing teams to test both approaches and help converge towards a unified league concept for 2026 and beyond.*
+we’re excited to finally share an update on the Smart Manufacturing League (SML) and how we’ll move forward in 2026!
 
-Many of you have been eager to hear how the Smart Manufacturing League (SML) will take shape for RoboCup 2026. Recent discussions within the RoboCup @Work and RCLL communities have led to a strong shared understanding of the overall direction towards Industry 5.0 and beyond.
-While we share substantial common ground in vision, tasks, and robot designs, our ideas on how these should be implemented into a concrete competition format have not fully converged so far.
+Over the past months, the SML Executive Committee—together with members of the former @Work and Logistics League communities—has developed a shared vision for the future of RoboCup Industrial. This vision focuses on openness, gradual evolution, and broad participation, while allowing teams to build on their existing systems.
 
-To move forward constructively and gather practical experience as well as your feedback, we have decided to proceed with two complementary workshop concepts for the RoboCup German Open 2026. Both will use the same arena layout and materials specification, ensuring comparability and allowing teams to participate in both formats using their existing systems.
+For the 2026 transition year, we will proceed with the **Embodied Autonomous Intelligence Workshop (EAI-WS)**. The EAI-WS is designed as an inclusive, challenge-style workshop that:
 
-The concept papers will be hosted publicly, and teams are explicitly encouraged to raise questions and suggest improvements transparently via GitHub issues. Our shared goal is to converge towards a robust and community-driven SML concept for RoboCup 2026 in Korea, 2027, and beyond.
+* welcomes all teams and robot platforms,
+* allows participation with existing systems,
+* encourages incremental improvements toward higher autonomy.
 
-We strongly encourage teams to participate in all workshop formats. Most existing systems should already be able to perform a substantial subset of the proposed tasks.
+At the start of the event, a **Vision Session** will be held to present the workshop concept, answer questions, and openly discuss open points together with all teams. Based on on-site experience and feedback, elements of the workshop can be refined collaboratively.
 
-We are looking forward to shaping a strong and unified RoboCup Industrial community together.
+We encourage teams to review the published concept, prepare their systems accordingly, and bring questions or ideas—either to the Vision Session, on-site discussions, or via GitHub.
 
-**Links:**
-- [Official RoboCup concept page](https://nextcloud.robocup.de/s/XbSi8GTQ9np3nXG)
-- [@Work GitHub repository](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence)
-- RCLL GitHub repository: [LINK TO BE ADDED]
+The EAI-WS concept and resources are available here:
+👉 [https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence)
+
+We’re very much looking forward to seeing the community come together, experimenting, learning from each other, and shaping the future of RoboCup Industrial step by step.
+
+See you at the events!
 
 Best regards,
 
-*Marco, Christoph, Asad, Matteo, Tarik, Wataru, Maike*
+The Smart Manufacturing League Executive Committee
+
 
 
 ## Overview
