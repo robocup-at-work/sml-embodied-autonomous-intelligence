@@ -1,99 +1,172 @@
 # FAQ
 
-# General
+## General
 
-### What is the SML ?
-The Smart Manufacturing League (SML) is the new competition format for RoboCup Industrial from 2026 and onwards. 
-It merges former @Work and RCLL concepts into a future-proof concept of an Industry 5.0 factory.
+### What is the Smart Manufacturing League (SML)?
+The Smart Manufacturing League (SML) is the new competition format for RoboCup Industrial, starting in 2026.
+It merges and evolves concepts from the former @Work and RoboCup Logistics League (RCLL) into a future-oriented framework aligned with Industry 5.0 research.
 
-### Why the new format ?
-From 2026 onwards, both former league formats will cease to exist. To continue with RoboCup Industrial as a unified community,
-a practical workshop concept has to be established. One that protects legacy while dropping balast.
+---
 
-### Which elements are retained ?
-While we abandon most former competition structures, we retain essential and well-explored robotic skills, such as navigation, manipulation, and planning.
+### Why was a new format introduced?
+From 2026 onwards, the former RoboCup Industrial league formats will no longer continue independently.
+To maintain a unified and active RoboCup Industrial community, a new format is required that:
+- preserves valuable legacy experience,
+- removes unnecessary structural constraints, and
+- supports modern research questions in autonomy, planning, and coordination.
 
-### What is new ?
-To ensure proper evaluation of planning performances, complementary standard simulators are introduced as a meaningful evaluation tool without hardware restrictions.
-The workbench tasks introduce flexible robotic assembly, connecting meaningful purpose to prior abstract logistic tasks in former leagues.
+---
 
-### What stays the same ?
-RoboCup Industrial will remain an encouraging and engaging playground for robotic researchers at any stage, 
-targeting real-world problems from research and industry.
-An open discussion and learning environment is fundamental for the success of the future SML.
+### Which elements are retained from previous leagues?
+The SML retains well-established robotic capabilities such as:
+- autonomous navigation,
+- manipulation,
+- task and mission planning,
+- coordination between agents.
 
-# Participation
+These skills remain central to the league and are exercised in updated contexts.
 
-### Why should I participate ?
-For the 2026 transition year, we explicitly encourage everyone interested in contributing towards a complete SML rulebook for the upcoming seasons,
-by actively participating in both vision and practical workshops on-site.
+---
 
-### How can I participate ?
-During 2026, all teams may participate in the practical Embodied Autonomous Intelligence (EAI) workshop, as well as in on-site community sessions to consolidate team feedback and to refine the current concept.
+### What is new compared to previous formats?
+New elements include:
+- standardized simulation environments to benchmark planning and coordination independently of hardware,
+- flexible workbench and assembly tasks that connect logistics, manipulation, and planning in a meaningful way,
+- increased emphasis on system autonomy and decision-making rather than fixed task scripts.
 
-### What Qualification Materials do I have to provide ?
-A team description paper and a short video of your robot doing any task that may contribute to a track is sufficient.
-Local restriction may require a selection of objectively ranked applicants.
+---
 
-### I am an existing Team. Am I welcome in the SML ?
-Of course. We welcome all established and new teams to join the SML during 2026, and if possible, to bring their robots.
+### What stays the same?
+RoboCup Industrial remains an open and encouraging environment for robotics researchers at all experience levels.
+Hands-on experimentation, knowledge exchange, and constructive discussion remain core values of the SML.
 
-### I am a new team. How do I start ?
-As long as your robot fulfills any meaningful work within the benchmark setups, participation is possible, 
-and you may explore further capabilities naturally through on-site experience.
+---
 
-### How will the Event Schedule look like?
-An example schedule for on-site events is included in the EAI-WS paper. 
-While specific timings may change according to local conditions, the general structure will likely remain intact.
+## Participation
 
-# Design Constraints
+### Why should I participate in 2026?
+The 2026 season is a transition year.
+Teams are explicitly encouraged to participate in order to:
+- gain early experience with the new format,
+- provide feedback based on real-world execution,
+- help shape the complete SML rulebook for future seasons.
 
-### May I continue with my existing robot ?
-Yes. We believe that all robot designs remain relevant, but individual performances across different tasks may vary.
+---
 
-### Is there an optimal design for a robot ?
-No. The league embraces creativity and encourages benchmarking of highly individual agents.
+### How can I participate?
+During 2026, teams may participate in:
+- the practical **Embodied Autonomous Intelligence Workshop (EAI-WS)**,
+- on-site vision and community sessions aimed at consolidating feedback and refining open aspects of the concept.
 
-### Are Humanoids mandatory ?
-No. The SML explicitly encourages their exploratory use, but accepts other system designs, such as wheel-based robots, as established solutions.
+---
 
-### Are Fleets mandatory ?
-No. Teams may participate using single agents. However, for later tiers, teams are expected to seamlessly integrate their agents into larger, heterogenous fleets.
+### What qualification material is required?
+Typically, teams are expected to provide:
+- a short team description,
+- a brief video demonstrating relevant robot capabilities.
 
-### Is Box-Transport mandatory ?
-No. Robots are allowed to carry euroboxes, but don't have to.
+Local event constraints may require selection if capacity is limited.
 
-### Where do I get the materials ?
-The technical regulations define commonly available storage shelfs and 3D-printed polymer bricks as raw materials, ensuring practical supply of core league elements for individuals and international events.
+---
 
+### I am an existing team. Can I continue with my robot?
+Yes.
+All existing teams are welcome to participate, and existing robots remain valid platforms within the SML.
 
-# Scoring
+---
 
-### How do i score points?
-Robots may collect points for autonomous tasks, such as navigation, deliveries, assemblies, planning, or completed product orders.
+### I am a new team. How do I start?
+As long as your robot can perform any meaningful work within the benchmark setups, participation is possible.
+Additional capabilities can be explored incrementally through on-site experience and iteration.
 
-### Is HRI rewarded ?
-Not directly. Teams may utilize HRI to close skill gaps, but will gain no points for such actions. 
-Overall order completitions however remain unaffected, no matter the fleet composition.
+---
 
-### Are Team Partnerships rewarded ?
-Teams may collaborate with others performing other complementary tracks or tasks. 
-Both teams share the points of their partners.
+### What does the event schedule look like?
+An example on-site schedule is included in the EAI-WS paper.
+While exact timings may vary depending on the event, the overall structure is expected to remain comparable.
 
-### How is scoring evaluated ?
-Scoring evaluation may be split into equal general benchmarking in a simulator environment,
-while real planning metrics such as ETAs, success rates, and re-planning capabilities are key.
+---
 
-### How can I win the workshop ?
-Team performances are benchmarked across three complementary tracks. 
-In addition, the overall order completion rate is included score evaluations, reflecting both specialization and general system autonomy. 
-We will award best-in-track certificates, as well as an overall workshop winner for the EAI-WS in 2026.
+## Design Constraints
 
+### Can I continue using my existing robot design?
+Yes.
+Different robot designs may perform differently across tasks, but no specific design is required.
 
-# EAI-WS
+---
 
-### Isn't this overcooked ?
-We acknowledge similarities in how decision-based planning and fleet coordination is implemented in an exciting benchmarking format.
-In fact, robots could be seen as cooks, preparing meals (or toys) for customers.
+### Is there an optimal robot design?
+No.
+The SML explicitly encourages diverse and creative system designs and aims to benchmark a wide range of approaches.
 
+---
 
+### Are humanoid robots required?
+No.
+Humanoid robots are welcome as exploratory systems, but wheel-based and other established platforms are equally valid.
+
+---
+
+### Are multi-robot fleets mandatory?
+No.
+Teams may participate with a single agent.
+More advanced tiers may later involve integration into heterogeneous fleets, but this is not required for entry.
+
+---
+
+### Is box transport mandatory?
+No.
+Robots may carry standardized containers (e.g., Euroboxes), but box transport is not a mandatory requirement.
+
+---
+
+### Where do I obtain materials?
+The technical regulations define commonly available components, such as standard shelving and 3D-printed polymer elements, to ensure accessibility across international events.
+
+---
+
+## Scoring
+
+### How are points awarded?
+Points are awarded for autonomous task execution, including:
+- navigation,
+- deliveries,
+- assembly,
+- planning performance,
+- completed product orders.
+
+---
+
+### Is human–robot interaction (HRI) rewarded?
+HRI is not scored directly.
+Teams may use HRI to bridge capability gaps, but scoring focuses on autonomous system performance.
+Completed orders are scored independently of fleet composition.
+
+---
+
+### Are collaborations between teams allowed?
+Yes.
+Teams may collaborate across complementary tasks or tracks.
+Points earned through collaboration are shared between the participating teams.
+
+---
+
+### How is performance evaluated?
+Evaluation may combine:
+- standardized benchmarking in simulation,
+- real-world metrics such as success rates, estimated time of arrival (ETA), and re-planning behavior.
+
+---
+
+### How is the workshop winner determined?
+Performance is benchmarked across multiple complementary tracks.
+Best-in-track certificates may be awarded, as well as an overall EAI-WS workshop winner for the 2026 season.
+
+---
+
+## EAI-WS
+
+### Isn’t this similar to “Overcooked”?
+There are conceptual similarities in task coordination and decision-based planning.
+In that sense, robots may be viewed as agents collaboratively preparing products.
+The analogy is intentional and helps illustrate coordination challenges in an intuitive way.
