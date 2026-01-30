@@ -151,7 +151,7 @@ Points earned through collaboration are shared between the participating teams.
 
 ---
 
-### How is performance evaluated?
+### How is planning performance evaluated?
 Evaluation may combine:
 - standardized benchmarking in simulation,
 - real-world metrics such as success rates, estimated time of arrival (ETA), and re-planning behavior.
