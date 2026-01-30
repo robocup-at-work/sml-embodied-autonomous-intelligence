@@ -1,6 +1,15 @@
 # Embodied Autonomous Intelligence Workshop (EAI-WS)
 *A Workshop Proposal for the RoboCup Smart Manufacturing League (SML)*
 
+1. [Letter to the Teams](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#letter-to-the-teams)
+2. [Overview](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#overview)
+3. [Scope of this Document](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#scope-of-this-document)
+4. [Disclaimer](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#disclaimer)
+5. [How to Contribute](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#how-to-contribute)
+6. [Process for Feedback, On-Site Discussions, and Decisions](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#process-for-feedback-on-site-discussions-and-decisions)
+7. [Citation](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#citation)
+8. [Final Note](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#final-note)
+
 ## Letter to the Teams
 
 Dear RoboCup Industrial Teams,
