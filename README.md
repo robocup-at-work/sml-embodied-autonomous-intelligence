@@ -28,7 +28,9 @@ See you at the events!
 
 Best regards,
 
-The Smart Manufacturing League Executive Committee
+Marco
+
+on behalf of the Smart Manufacturing League Executive Committee
 
 
 
