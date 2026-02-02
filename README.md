@@ -223,24 +223,7 @@ The EC is responsible for overall direction, long-term vision, and final decisio
 For each major event (e.g., German Open, World Cup), an Organizing Committee (OC) and a Technical Committee (TC) will be formed.
 
 All participants are invited to apply for OC or TC positions.
-Each application consists of three short statements:
-
-1. Name and age
-2. Past contributions to RoboCup / SML
-3. Personal values and motivation
-
-All applications will be considered. The current SML EC will select a heterogeneous committee composition, taking into account diversity of background, expertise, teams, and perspectives.
-
-Appointments are event- or season-specific and may be revised for future events.
-
-### Committee Leads
-
-Each committee (EC, OC, TC) will nominate a lead from within its members.
-The role of a lead is to coordinate, moderate, and ensure progress — not to overrule collective decisions. This structure exists to prevent stagnation and enable timely, transparent outcomes.
-
-### Role descriptions
-
-For description about the tasks and responsibilities within each committee role, please refer to the [detailed descriptions](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Committee_Roles.md).
+Please refer to the [TC/OC Election Process](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/TC_OC_Elections.md) and the [role descriptions](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Committee_Roles.md) for more information.
 
 ## Citation
 
