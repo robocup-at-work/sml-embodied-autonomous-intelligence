@@ -137,7 +137,7 @@ The Embodied Autonomous Intelligence Workshop (EAI-WS) is designed as a collabor
 
 To ensure that ideas can be integrated meaningfully while keeping the process workable, feedback is handled as follows:
 
-### 1.Sources of feedback
+### 1. Sources of feedback
 
 Feedback may be provided through:
 - GitHub Issues (preferred for detailed or technical feedback),
