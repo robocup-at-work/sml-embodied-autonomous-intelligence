@@ -12,7 +12,7 @@
 9. [Citation](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#citation)
 10. [Final Note](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#final-note)
 
-## Letter to the Teams
+## Message to the Teams
 
 Dear RoboCup Industrial Teams,
 
@@ -72,6 +72,15 @@ The concept emphasizes:
 - Gradual increase of complexity
 - On-site experimentation and learning
 - Comparability across teams without enforcing specific architectures
+
+## Design Philosophy
+
+RoboCup Industrial must aim to establish a future-proof community and research competition format for all career levels.
+By seamlessly integrating all backgrounds into one unified concept, the new SML format shall remain "accessible today while crafting tomorrow". 
+
+<img width="1242" height="503" alt="grafik" src="https://github.com/user-attachments/assets/f4d08cb0-dbf0-4015-9172-15f3a8b05d45" />
+
+
 
 ## Disclaimer
 
