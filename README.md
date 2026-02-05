@@ -77,11 +77,6 @@ The concept emphasizes:
 - On-site experimentation and learning
 - Comparability across teams without enforcing specific architectures
 
-To ease transitions and spark excitement for all participants in the new workshop format, 
-the authors attached a dedicated letter to all teams of RoboCup Industrial 2026 to the EAI concept paper.
-The letter includes a compact guide through the new competition format, 
-as well as sampled recommendations for module adaptation in existing systems.
-
 ## Design Philosophy
 
 RoboCup Industrial must aim to establish a future-proof community and research competition format for all career levels.
@@ -89,7 +84,12 @@ By seamlessly integrating all backgrounds into one unified concept, the new SML 
 
 <img width="1242" height="503" alt="grafik" src="https://github.com/user-attachments/assets/f4d08cb0-dbf0-4015-9172-15f3a8b05d45" />
 
+## Transition Guide
 
+To ease transitions and spark excitement for all teams participating in the Embodied Autonomous Intelligence Workshop, 
+the authors attached a dedicated letter to all teams of RoboCup Industrial 2026 at the end of the EAI concept paper.
+The letter includes a compact guide through the new competition format, 
+as well as sampled suggestions for module development in robotic systems.
 
 ## Disclaimer
 
