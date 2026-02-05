@@ -51,7 +51,7 @@ Best regards,
 
 ## Overview
 
-This repository contains the official workshop proposal document for the
+This repository contains the [official workshop proposal}(https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Embodied%20Autonomous%20Intelligence%20Workshop%20-%20V1.0.pdf) document for the
 Embodied Autonomous Intelligence Workshop (EAI-WS), developed as part of the transition to the RoboCup Smart Manufacturing League (SML) starting in 2026.
 
 The document describes:
@@ -87,9 +87,12 @@ By seamlessly integrating all backgrounds into one unified concept, the new SML 
 ## Transition Guide
 
 To ease transitions and spark excitement for all teams participating in the Embodied Autonomous Intelligence Workshop, 
-the authors attached a dedicated letter to all teams of RoboCup Industrial 2026 at the end of the EAI concept paper.
+the authors attached a [dedicated letter](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Transition_Guide/Letter_to_the_Teams.md) to all teams of RoboCup Industrial 2026.
 The letter includes a compact guide through the new competition format, 
 as well as sampled suggestions for module development in robotic systems.
+
+A continously updated [FAQ](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Transition_Guide/FAQ.md) shall further prevent misunderstandings early and aims to provide an easy-accessible common understanding based on straight-forward answers to deliberate design choices. 
+
 
 ## Disclaimer
 
