@@ -141,7 +141,7 @@ This approach ensures:
 
 The Embodied Autonomous Intelligence Workshop (EAI-WS) is designed as a collaborative and evolving format. Feedback from the community—both on-site and online—is explicitly welcome and encouraged.
 
-To ensure that ideas can be integrated meaningfully while keeping the process workable, feedback is handled through a [transparent and managable process](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Terms_and_Conditions/Feedback_Process.md).
+To ensure that ideas can be integrated meaningfully while keeping the process workable, feedback is handled through a [transparent and protective process](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Terms_and_Conditions/Feedback_Process.md).
 
 
 ## Community Guidelines & Code of Conduct
