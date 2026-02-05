@@ -84,17 +84,15 @@ By seamlessly integrating all backgrounds into one unified concept, the new SML 
 
 ## Disclaimer
 
-This document describes the current baseline workshop concept for the Smart Manufacturing League (SML) transition phase.
+For the 2026 transition year of the Smart Manufacturing League (SML), the **Embodied Autonomous Intelligence Workshop (EAI-WS)** serves as the **baseline workshop concept**.
+The baseline:
+- provides a shared reference point for teams and organizers,
+- reflects common ground between the former @Work and RCLL communities,
+- is designed to be inclusive, allowing participation with existing systems,
+- emphasizes performance differentiation through task outcomes rather than eligibility constraints.
 
-The EAI-WS reflects a shared understanding within the SML Executive Committee on the general direction, scope, and structure of SML activities for the 2026 season. It is intended to provide teams with a concrete and actionable reference for preparation and participation.
-
-While broad alignment exists on this baseline, discussions on specific design choices, extensions, and future developments are ongoing. As such:
-- The EAI-WS should be understood as a reference implementation, not a final league rulebook
-- Constructive feedback and refinement proposals are explicitly welcome
-- Adjustments may be made based on on-site experience and structured community input
-
-The purpose of the EAI-WS is to enable practical experimentation and informed iteration, not to pre-empt future committee decisions for subsequent seasons.
-
+The baseline concept is **not final or immutable**. It is intended as a practical starting point that enables teams to prepare, participate, and provide meaningful feedback based on real experience.
+All discussions, feedback, and proposed refinements are expected to **reference this baseline explicitly**, unless a fully alternative concept is being proposed.
 
 ## How to Contribute
 
@@ -128,94 +126,20 @@ This approach ensures:
 - No late rule or concept changes that would disadvantage early preparation
 - A fair transition into future SML iterations
 
-### Baseline Workshop Concept
 
-For the 2026 transition year of the Smart Manufacturing League (SML), the **Embodied Autonomous Intelligence Workshop (EAI-WS)** serves as the **baseline workshop concept**.
-The baseline:
-- provides a shared reference point for teams and organizers,
-- reflects common ground between the former @Work and RCLL communities,
-- is designed to be inclusive, allowing participation with existing systems,
-- emphasizes performance differentiation through task outcomes rather than eligibility constraints.
-
-The baseline concept is **not final or immutable**. It is intended as a practical starting point that enables teams to prepare, participate, and provide meaningful feedback based on real experience.
-All discussions, feedback, and proposed refinements are expected to **reference this baseline explicitly**, unless a fully alternative concept is being proposed.
 
 ## Process for Feedback, On-Site Discussions, and Decisions
 
 The Embodied Autonomous Intelligence Workshop (EAI-WS) is designed as a collaborative and evolving format. Feedback from the community—both on-site and online—is explicitly welcome and encouraged.
 
-To ensure that ideas can be integrated meaningfully while keeping the process workable, feedback is handled as follows:
-
-### 1. Sources of feedback
-
-Feedback may be provided through:
-- GitHub Issues (preferred for detailed or technical feedback),
-- Vision Sessions and on-site discussions during events,
-- Direct discussions with EC members during the workshop.
-
-All forms of feedback are considered valuable input.
-
-### 2. Collection and consolidation
-
-Feedback gathered on-site or through informal discussions will be:
-
-- collected by members of the SML Executive Committee (EC),
-- consolidated where similar or overlapping points are raised by multiple teams,
-- summarized if different interpretations or perspectives on the same topic exist.
-
-This step ensures that repeated or conflicting feedback is captured clearly and fairly, without requiring every team to debate every detail directly.
-
-### 3. Evaluation and decision
-
-The consolidated feedback is then reviewed within the Executive Committee.
-
-Decisions on:
-- clarifications,
-- refinements,
-- extensions, or
-- changes to the workshop concept
-
-are made within this circle.
-
-This process allows all ideas to be heard, while ensuring that decisions remain manageable, consistent, and aligned with the overall vision.
-
-### 4. Transparency and follow-up
-
-Where relevant:
-- outcomes of EC discussions will be reflected in updates to the documentation,
-- clarifications or rationale may be added to the repository or communicated during follow-up sessions,
-- unresolved or exploratory ideas may be deferred to future iterations or experiments.
-
-The goal is not to accept or reject ideas immediately, but to integrate them responsibly based on shared experience and feasibility.
-
-### 5. Guiding principle
-
-All ideas are welcome.
-Not all ideas need to be decided immediately.
-
-This structure is intended to balance **openness and inclusivity** with the need for **clear decisions and forward progress**, especially during the SML transition phase.
+To ensure that ideas can be integrated meaningfully while keeping the process workable, feedback is handled as described [here](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Feedback_Process.md).
 
 
 ## Community Guidelines & Code of Conduct
 
 The EAI-WS workshop is designed as an open, inclusive, and experimental environment that brings together teams with diverse backgrounds, robot platforms, and research goals. We explicitly welcome heterogeneous approaches and encourage creative exploration.
 
-To ensure a productive and respectful experience for all participants, we ask everyone to adhere to the following principles:
-
-#### Respectful and substantial discussion:
-Passionate technical discussions are welcome and encouraged. Criticism should always focus on ideas, designs, or results — never on individuals or teams.
-#### Good-faith participation
-The workshop is not intended for adversarial behavior or strategic exploitation of ambiguities in the design philosophy. Approaches that intentionally undermine the spirit of fair comparison or collaboration may be excluded from evaluation.
-#### No architectural gatekeeping
-All robot platforms and system architectures are welcome. There is no guarantee that every approach will perform equally well across all tasks — as in real-world industrial settings, outcomes depend on design choices and trade-offs.
-
-#### Fair play and sportsmanship
-Unsportsmanlike behavior, including deliberate attempts to gain advantage through technical loopholes, excessive handicapping of others, or disruptive conduct, will not be tolerated.
-
-#### Experimental mindset
-The workshop is a learning-oriented environment. Unexpected results, partial solutions, and failure cases are considered valuable outcomes and should be treated constructively.
-
-The executive committee reserves the right to intervene in cases where these principles are violated, with the goal of preserving a safe, fair, and collaborative environment for all participants.
+To ensure a productive and respectful experience for all participants, we ask everyone to adhere to our [guideline principles](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Guidelines.md).
 
 
 ## Committee Structure & Governance
