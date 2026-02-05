@@ -81,22 +81,29 @@ All discussions, feedback, and proposed refinements are expected to **reference 
 
 ## How to Contribute
 
-### Committee Formation & On-Site Decisions
-
-A new SML committee (TC and OC) is expected to be formed during 2026.
-The EAI-WS concept intentionally leaves certain aspects open, especially where:
-- Practical constraints only become clear on-site
-- Decisions benefit from direct team input
-- Physical interaction, timing, or arena logistics matter
-- These elements are expected to be refined collaboratively during real events.
-
-### Feedback
+### Online Feedback
 
 Teams and contributors are invited to use the GitHub Issues section to:
 - Propose ideas or extensions
 - Discuss open questions
 - Suggest refinements or alternatives
 - Share concerns based on preparation or on-site experience
+
+### Hands-On Experience
+
+The EAI-WS leaves certain aspects of the competition deliberately open for community refinement, especially where:
+- Practical constraints only become clear on-site
+- Decisions benefit from direct team input
+- Physical interaction, timing, or arena logistics matter
+
+These elements are expected to be refined collaboratively during real events.
+
+
+### Committee Formation & On-Site Decisions
+
+A new SML committee (TC and OC) is expected to be formed during 2026.
+The EAI-WS concept intentionally leaves certain aspects open, 
+which shall be refined by through the community and [local TC/OC elections](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Terms_and_Conditions/TC_OC_Elections.md).
 
 ### Important Timeline Note
 
@@ -117,7 +124,7 @@ This approach ensures:
 
 The Embodied Autonomous Intelligence Workshop (EAI-WS) is designed as a collaborative and evolving format. Feedback from the community—both on-site and online—is explicitly welcome and encouraged.
 
-To ensure that ideas can be integrated meaningfully while keeping the process workable, feedback is handled through a [transparent and constructive process](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Terms_and_Conditions/Feedback_Process.md).
+To ensure that ideas can be integrated meaningfully while keeping the process workable, feedback is handled through a fair and constructive [process](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Terms_and_Conditions/Feedback_Process.md).
 
 
 ## Community Guidelines & Code of Conduct
