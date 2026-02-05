@@ -93,12 +93,11 @@ as well as sampled suggestions for module development in robotic systems.
 
 A continously updated [FAQ](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Transition_Guide/FAQ.md) shall further prevent misunderstandings early and aims to provide an easy-accessible common understanding based on straight-forward answers to deliberate design choices. 
 
-
 ## Disclaimer
 
 For the 2026 transition year of the Smart Manufacturing League (SML), the [**Embodied Autonomous Intelligence Workshop (EAI-WS)**](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Embodied%20Autonomous%20Intelligence%20Workshop%20-%20V1.0.pdf) serves as the **baseline workshop concept**.
 The baseline:
-- provides a shared reference point for teams and organizers,
+- provides a [shared reference](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Transition_Guide/Event_Information.md) point for teams and organizers,
 - reflects common ground between the former @Work and RCLL communities,
 - is designed to be inclusive, allowing participation with existing systems,
 - emphasizes performance differentiation through task outcomes rather than eligibility constraints.
