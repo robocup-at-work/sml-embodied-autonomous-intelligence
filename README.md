@@ -23,11 +23,11 @@ of what participants may expect during RoboCup Industrial 2026.
 
 **TL;DR:**
 
-*"We invite all RoboCup Industrial teams to actively participate in on-site workshop formats and events.
+*"We invite all RoboCup Industrial teams to actively participate in on-site workshop formats and events.*
 
-The competition will be shaped through the community within safe guardrails.
+*The competition will be shaped through the community within safe guardrails.*
 
-All robots are welcome. Let us explore Embodied Autonomous Intelligence together."*
+*All robots are welcome. Let us explore Embodied Autonomous Intelligence together."*
 
 
 
