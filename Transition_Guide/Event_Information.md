@@ -2,7 +2,7 @@
 
 ## On-Site Materials
 
-Standard storage shelfs and polymer building blocks ensure easy access into the league.
+Standard storage shelfs and polymer building blocks ensure easy access into the league. Wall elements will be firm, plain material of 40x100cm size. Wall thickness may vary across events.
 
 <img width="2039" height="782" alt="obj_render3" src="https://github.com/user-attachments/assets/d7fc5e90-9faa-43a6-bab0-ff9d3616a461" />
 <img width="872" height="158" alt="klt_containers" src="https://github.com/user-attachments/assets/0e03ebfc-e3a9-475c-959c-c0bd0173ddf8" />
