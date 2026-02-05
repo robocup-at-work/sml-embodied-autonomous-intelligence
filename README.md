@@ -141,14 +141,14 @@ This approach ensures:
 
 The Embodied Autonomous Intelligence Workshop (EAI-WS) is designed as a collaborative and evolving format. Feedback from the community—both on-site and online—is explicitly welcome and encouraged.
 
-To ensure that ideas can be integrated meaningfully while keeping the process workable, feedback is handled as described [here](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Feedback_Process.md).
+To ensure that ideas can be integrated meaningfully while keeping the process workable, feedback is handled through a [transparent and managable process](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Terms_and_Conditions/Feedback_Process.md).
 
 
 ## Community Guidelines & Code of Conduct
 
 The EAI-WS workshop is designed as an open, inclusive, and experimental environment that brings together teams with diverse backgrounds, robot platforms, and research goals. We explicitly welcome heterogeneous approaches and encourage creative exploration.
 
-To ensure a productive and respectful experience for all participants, we ask everyone to adhere to our [guideline principles](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Guidelines.md).
+To ensure a productive and respectful experience for all participants, we ask everyone to adhere to our [guideline principles](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Terms_and_Conditions/Guidelines.md).
 
 
 ## Committee Structure & Governance
@@ -165,7 +165,7 @@ The EC is responsible for overall direction, long-term vision, and final decisio
 For each major event (e.g., German Open, World Cup), an Organizing Committee (OC) and a Technical Committee (TC) will be formed.
 
 All participants are invited to apply for OC or TC positions.
-Please refer to the [TC/OC Election Process](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/TC_OC_Elections.md) and the [role descriptions](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Committee_Roles.md) for more information.
+Please refer to the [TC/OC Election Process](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Terms_and_Conditions/TC_OC_Elections.md) and the [role descriptions](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Terms_and_Conditions/Committee_Roles.md) for more information.
 
 ## Citation
 
