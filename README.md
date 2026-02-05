@@ -79,10 +79,8 @@ The concept emphasizes:
 
 ## Design Philosophy
 
-RoboCup Industrial must aim to establish a future-proof community and research competition format for all career levels.
-By seamlessly integrating all backgrounds into one unified concept, the new SML format shall remain "accessible today while crafting tomorrow". 
-
-<img width="1242" height="503" alt="grafik" src="https://github.com/user-attachments/assets/f4d08cb0-dbf0-4015-9172-15f3a8b05d45" />
+The RoboCup Industrial - EAI-WS aims to establish a future-proof community and research competition format for all career levels.
+By seamlessly integrating all backgrounds into [one unified concept](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Terms_and_Conditions/Vision.md), the new SML format shall remain "accessible today while crafting tomorrow". 
 
 ## Transition Guide
 
