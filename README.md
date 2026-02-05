@@ -21,7 +21,9 @@
 The [message to the teams](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Transition_Guide/TLDR.md) includes a minimal version
 of what participants may expect during RoboCup Industrial 2026. 
 
-We encourage all teams and robots to actively participate in all workshop formats and on-site events.
+TL;DR:
+We invite all RoboCup Industrial teams to actively participate in on-site workshop formats and events.
+All robots are welcome. The competition will be shaped through the community within safe guardrails.
 
 
 
