@@ -1,7 +1,11 @@
 # Embodied Autonomous Intelligence Workshop (EAI-WS)
 *A Workshop Proposal for the RoboCup Smart Manufacturing League (SML)*
 
-1. [Letter to the Teams](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#letter-to-the-teams)
+<img width="1190" height="932" alt="grafik" src="https://github.com/user-attachments/assets/d2c71bde-c86e-43f7-82f2-462e3ba226b1" />
+
+## Table of Contents
+
+1. [Message to the Teams](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#letter-to-the-teams)
 2. [Overview](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#overview)
 3. [Scope of this Document](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#scope-of-this-document)
 4. [Disclaimer](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence?tab=readme-ov-file#disclaimer)
@@ -72,6 +76,11 @@ The concept emphasizes:
 - Gradual increase of complexity
 - On-site experimentation and learning
 - Comparability across teams without enforcing specific architectures
+
+To ease transitions and spark excitement for all participants in the new workshop format, 
+the authors attached a dedicated letter to all teams of RoboCup Industrial 2026 to the EAI concept paper.
+The letter includes a compact guide through the new competition format, 
+as well as sampled recommendations for module adaptation in existing systems.
 
 ## Design Philosophy
 
