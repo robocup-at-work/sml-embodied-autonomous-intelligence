@@ -18,34 +18,10 @@
 
 ## Message to the Teams
 
-Dear RoboCup Industrial Teams,
+The [message to the teams](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Transition_Guide/TLDR.md) includes a minimal version
+of what participants may expect during RoboCup Industrial 2026. 
 
-we’re excited to finally share an update on the Smart Manufacturing League (SML) and how we’ll move forward in 2026!
-
-Over the past months, the SML Executive Committee—together with members of the former @Work and Logistics League communities—has developed a shared vision for the future of RoboCup Industrial. This vision focuses on openness, gradual evolution, and broad participation, while allowing teams to build on their existing systems.
-
-For the 2026 transition year, we will proceed with the **Embodied Autonomous Intelligence Workshop (EAI-WS)**. The EAI-WS is designed as an inclusive, challenge-style workshop that:
-
-* welcomes all teams and robot platforms,
-* allows participation with existing systems,
-* encourages incremental improvements toward higher autonomy.
-
-At the start of the event, a **Vision Session** will be held to present the workshop concept, answer questions, and openly discuss open points together with all teams. Based on on-site experience and feedback, elements of the workshop can be refined collaboratively.
-
-We encourage teams to review the published concept, prepare their systems accordingly, and bring questions or ideas—either to the Vision Session, on-site discussions, or via GitHub.
-
-The EAI-WS concept and resources are available here:
-👉 [https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence)
-
-We’re very much looking forward to seeing the community come together, experimenting, learning from each other, and shaping the future of RoboCup Industrial step by step.
-
-See you at the events!
-
-Best regards,
-
-*Marco*
-
-*on behalf of the Smart Manufacturing League Executive Committee*
+We encourage all teams and robots to actively participate in all workshop formats and on-site events.
 
 
 
@@ -85,9 +61,9 @@ By seamlessly integrating all backgrounds into [one unified concept](https://git
 ## Transition Guide
 
 To ease transitions and spark excitement for all teams participating in the Embodied Autonomous Intelligence Workshop, 
-the authors attached a [dedicated letter](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Transition_Guide/Letter_to_the_Teams.md) to all teams of RoboCup Industrial 2026.
+the authors attached a short motivational [letter to all teams](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Transition_Guide/Letter_to_the_Teams.md) of RoboCup Industrial 2026.
 The letter includes a compact guide through the new competition format, 
-as well as sampled suggestions for module development in robotic systems.
+as well as suggestions for skill developments in robotic systems.
 
 A continously updated [FAQ](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Transition_Guide/FAQ.md) shall further prevent misunderstandings early and aims to provide an easy-accessible common understanding based on straight-forward answers to deliberate design choices. 
 
@@ -141,7 +117,7 @@ This approach ensures:
 
 The Embodied Autonomous Intelligence Workshop (EAI-WS) is designed as a collaborative and evolving format. Feedback from the community—both on-site and online—is explicitly welcome and encouraged.
 
-To ensure that ideas can be integrated meaningfully while keeping the process workable, feedback is handled through a [transparent and protective process](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Terms_and_Conditions/Feedback_Process.md).
+To ensure that ideas can be integrated meaningfully while keeping the process workable, feedback is handled through a [transparent and constructive process](https://github.com/robocup-at-work/sml-embodied-autonomous-intelligence/blob/main/Terms_and_Conditions/Feedback_Process.md).
 
 
 ## Community Guidelines & Code of Conduct
