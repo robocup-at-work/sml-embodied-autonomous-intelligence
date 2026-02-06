@@ -24,8 +24,8 @@ By seamlessly connecting newcomers, legacy teams, and industrial partners, mutua
 - Building a future-proof Community
 
 ### Long Term Goals
-- Embodied Autonomous Intelligence in Robotic Agents and Fleets by 2050
-- Pursue research Relevance and Popularity
+- Embodied Autonomous Intelligence in Robotic Agents and Fleets by 2050
+- Pursuit of Innovation and Popularity
 
 ## Towards Embodied Autonomous Intelligence
 
