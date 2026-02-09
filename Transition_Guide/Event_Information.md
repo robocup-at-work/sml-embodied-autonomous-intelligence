@@ -1,5 +1,29 @@
 # Event Information
 
+## Preliminary Schedule
+
+This is the preliminary schedule for the German Open and World Cup in 2026.
+The exact timeline may be subject to change, according to local event conditions.
+
+- **Day 1 – Welcome Session (90 min):**
+  Introduction of the SML and EAI workshop concept, scope, participation framework, and committee setup.
+
+- **Day 1 – Q&A Session (after a longer break):**
+  Clarification-focused session after teams had time to read the paper and discuss internally. No structural decisions, only resolving misunderstandings and collecting open questions.
+
+- **Day 2 – Refinement Session (90 min):**
+  Structured discussion split into
+  – short-term aspects (how to participate and succeed in 2026) and
+  – long-term aspects (what could evolve in future editions).
+  The goal is convergence on priorities and principles, not full rule finalization.
+
+- **Days 2–4 – Informal practical feedback slots:**
+  For minor clarifications, operational details, and practical feedback that may influence fine-grained adjustments.
+
+<img width="1094" height="414" alt="grafik" src="https://github.com/user-attachments/assets/dcd09a53-e7c7-4b05-b33f-067c929e95ca" />
+
+
+
 ## On-Site Materials
 
 Standard storage shelfs and polymer building blocks ensure easy access into the league. Wall elements will be firm, plain material of 40x100cm size. Wall thickness may vary across events.
@@ -21,12 +45,5 @@ Cable infrastructure will be provided at every corner of the arena.
 
 <img width="1262" height="647" alt="arena_layout" src="https://github.com/user-attachments/assets/56cc7ad2-6dab-4936-b063-fed367e07acf" />
 
-
-## Preliminary Schedule
-
-This is the preliminary schedule for the German Open and World Cup in 2026.
-The exact timeline may be subject to change, according to local event conditions.
-
-<img width="1816" height="614" alt="grafik" src="https://github.com/user-attachments/assets/00420330-5d33-42d0-b86a-096b7fc98e78" />
 
 
