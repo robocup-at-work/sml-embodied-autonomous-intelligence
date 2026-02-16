@@ -12,7 +12,8 @@ The SML aims to establish a new community that connects researchers at any caree
 Inclusion and accessibility for Beginners will always remain equally relevant as innovation and research prospects for experts.
 By seamlessly connecting newcomers, legacy teams, and industrial partners, mutual collaboration efforts can emerge naturally from shared interests.
 
-<img width="1250" height="523" alt="grafik" src="https://github.com/user-attachments/assets/463667f1-e898-44a2-8fab-d97819bb3cc6" />
+<img width="1702" height="736" alt="grafik" src="https://github.com/user-attachments/assets/01b04563-e0e6-4aad-8503-4db1cca92817" />
+
 
 ## Ambitions for the Embodied Autonomous Intelligence Workshop
 
