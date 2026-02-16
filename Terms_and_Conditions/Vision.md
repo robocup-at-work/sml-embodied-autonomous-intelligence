@@ -30,6 +30,10 @@ By seamlessly connecting newcomers, legacy teams, and industrial partners, mutua
 
 ## Towards Embodied Autonomous Intelligence
 
+<img width="1640" height="691" alt="grafik" src="https://github.com/user-attachments/assets/1b487416-6a57-4f0b-81c1-0289cef86b03" />
+
+
+<!--
 ### Vision
 - Define Guardrails and let the community shape the Trajectory
 - Provide connection paradigms instead of coordination rules
@@ -44,7 +48,7 @@ By seamlessly connecting newcomers, legacy teams, and industrial partners, mutua
 - Building a novel, fully inclusive community for everyone
 - Let approaches be constrained by trade-offs, not regulations
 - Let collaboration emerge from mutual efforts, not arbitrary barriers
-
+-->
 ## Embraced Concepts
 
 - Small toy bricks and containers as the core elements for smart production and recycling tasks
