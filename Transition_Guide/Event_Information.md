@@ -28,9 +28,12 @@ The exact timeline may be subject to change, according to local event conditions
 
 Standard storage shelfs and polymer building blocks ensure easy access into the league. Wall elements will be firm, plain material of 40x100cm size. Wall thickness may vary across events.
 
-<img width="2039" height="782" alt="obj_render3" src="https://github.com/user-attachments/assets/d7fc5e90-9faa-43a6-bab0-ff9d3616a461" />
-<img width="872" height="158" alt="klt_containers" src="https://github.com/user-attachments/assets/0e03ebfc-e3a9-475c-959c-c0bd0173ddf8" />
+<img width="715" height="380" alt="Real Objects in example containers" src="https://github.com/user-attachments/assets/91e4d8de-9199-4bcb-834b-e8cb7f2585b9" />
+
 <img width="999" height="614" alt="Shelf with 2 operating heights" src="https://github.com/user-attachments/assets/52ea92c3-46af-4189-a1d9-2c692ea1d84d" />
+
+<img width="777" height="582" alt="German Open Robots and Materials" src="https://github.com/user-attachments/assets/e96c7109-9970-4e67-b271-0a6995c47794" />
+
 
 ## Arena Layout
 
